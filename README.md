@@ -62,7 +62,7 @@ Isso iniciará uma API REST em http://localhost:3001, com os seguintes endpoints
 •  Opcional: Utilizar a biblioteca Ant Design para construir a interface
 
 ## 🎯 Critérios de Avaliação
-•  Código limpo e organizado.
+•  Código limpo e organizado, seguindo as boas práticas de desenvolvimento React.
 
 •  Uso adequado de componentes e gerenciamento de estado.
 
